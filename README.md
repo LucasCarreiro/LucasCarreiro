@@ -10,7 +10,7 @@ Você pode me encontre aqui:
 
 [![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/LucasCarreiro)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas1carreiro1/)
-[![Codewars](https://www.codewars.com/users/JoseFernandoh/badges/small)](https://www.codewars.com/users/LucasCarreiro)
+[![Codewars](https://www.codewars.com/users/LucasCarreiro/badges/small)](https://www.codewars.com/users/LucasCarreiro)
 
 Minhas infomações referentes ao GitHub:
 
