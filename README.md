@@ -1,4 +1,4 @@
-## Olá! Tudo bem? Eu sou Lucas Carreiro :technologist: 👋
+## Olá! Tudo bem? Eu sou Lucas Carreiro 👨‍💻
 
 Sou estudante de Ciência da Computação e entusiasta das melhores tecnologias de desenvolvimento.
 
