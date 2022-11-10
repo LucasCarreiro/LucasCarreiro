@@ -4,7 +4,7 @@ Sou estudante de Ciência da Computação e entusiasta das melhores tecnologias 
 
 - 🔭 Atualmente estou no 5º periodo de Ciência da Computação
 - 🌱 Estou aprendendo Python | JS | MySQL
--  :sparkles: Esses são alguns dos assuntos que pretendo estudar em um futuro próximo: Spring Boot e NO-SQL.
+-  :sparkles: Esses são alguns dos assuntos que pretendo estudar em um futuro próximo: Node.JS e Ruby.
 
 Você pode me encontre aqui:
 
