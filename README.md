@@ -1,18 +1,35 @@
-## Olá! Tudo bem? Eu sou Lucas Carreiro 👨‍💻
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Sou estudante de Ciência da Computação e entusiasta das melhores tecnologias de desenvolvimento.
+<p align="left"> 
+  Hello, my name is Lucas Carreiro. 
+  <br>
+  I'm 22 years old and I've acted as <strong>Web Developer and Data Analyst</strong>. 
+  <br>
+  I'm currently just studying. I'm in the 6th period of Computer Science.
+</p>
 
-- 🔭 Atualmente estou no 5º periodo de Ciência da Computação
-- 🌱 Estou aprendendo Python | JS | MySQL
--  :sparkles: Esses são alguns dos assuntos que pretendo estudar em um futuro próximo: Node.JS e Ruby.
+<p align="left">
+  🤖 Languages: <strong>Python and Javascript</strong>
+</p>
 
-Você pode me encontre aqui:
+<p align="left">
+  💼 Tools: <strong>VsCode , Vue.js e Node.js</strong>
+</p>
 
-[![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/LucasCarreiro)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas1carreiro1/)
-[![Codewars](https://www.codewars.com/users/LucasCarreiro/badges/small)](https://www.codewars.com/users/LucasCarreiro)
+<p align="left">
+  💌 I am available for new jobs, contact me: ⤵️
+</p>
 
-Minhas infomações referentes ao GitHub:
+<p align="left">
+  <a href="mailto:contato.lucasscarreiro@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=LucasCarreiro&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)
+  <a href="https://www.linkedin.com/in/lucas1carreiro1/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
+  <a href="https://wa.me/5586995131170" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="https://www.instagram.com/lucas_carreir0/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
