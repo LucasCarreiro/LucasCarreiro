@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  🤖 Languages: <strong>Python and Javascript</strong>
+  🤖 Languages: <strong>Python and Javascript(Vue.js e Node.js)</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VsCode , Vue.js e Node.js</strong>
+  💼 Tools: <strong>VsCode</strong>
 </p>
 
 <p align="left">
